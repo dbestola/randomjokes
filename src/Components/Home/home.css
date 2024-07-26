@@ -1,0 +1,12 @@
+body{
+    background-color: blue;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+.handleJokes{
+    width: 100vh;
+    height: 200px;
+    background-color: #fff;
+}
